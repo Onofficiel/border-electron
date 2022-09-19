@@ -1268,6 +1268,9 @@ populateBookMarks() {
   /** The current version of Border. */
 /** @readonly */
   version = "1.10";
+/** The current release channel of Border. */
+/** @readonly */
+  releaseChannel="stable"
  /**
  * An array of KeyBinds to activate browser features.
  * @deprecated Is only used in Web and w96 versions of Border.
